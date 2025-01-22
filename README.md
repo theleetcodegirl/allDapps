@@ -1,2 +1,0 @@
-# allDapps
-All my dapps
