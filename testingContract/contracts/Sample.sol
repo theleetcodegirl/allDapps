@@ -4,7 +4,7 @@ pragma solidity >=0.8.2 <0.9.0;
 
 contract Sample {
 
-    string public name ="gita";
+    string public name ="ram";
     enum Gender { Male, Female }
     Gender public gender;
     uint256 public age;
